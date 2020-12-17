@@ -1,3 +1,3 @@
-
- def position_taken? board=[" "," "," "," "," "," "," "," ", " "]
+board=[" "," "," "," "," "," "," "," ", " "]
+ def position_taken? 
  end
